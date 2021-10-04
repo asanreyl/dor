@@ -1,2 +1,2 @@
-# dor
-Diseño interfaces web
+# Diseño de Interfaces Web
+Repositorio de prácticas
